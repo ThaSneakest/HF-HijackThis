@@ -1,0 +1,1 @@
+@call "_2_Make_UPX_Sign.cmd" Fast
